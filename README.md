@@ -1,2 +1,4 @@
 # WiltingPriesemann2018
-Multistep regression estimator and branching process simulation from Wilting &amp; Priesemann, Nature Communications, in press.
+Minimal multistep regression estimator and branching process simulation from Wilting &amp; Priesemann, Nature Communications 9(1):2325 (2018).
+For the corresponding toolbox please see 
+https://pypi.org/project/mrestimator/
